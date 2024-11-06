@@ -63,3 +63,19 @@ dowtrend_data = dowtrend.get_max(data, period, type='DESVALORIZAÇÃO')  # Subst
 
 # Exibe o DataFrame com os resultados da análise de tendências
 dowtrend_data
+```
+
+## Saidas
+
+| Ticker  | Semanal | Quinzenal | Mensal | Trimestral | Anual  |
+|---------|---------|-----------|--------|------------|--------|
+| SAPR4   | 0.38    | 0.38      | -3.79  | -10.57     | -4.94  |
+| CURY3   | -1.67   | -6.14     | -3.60  | 7.00       | 42.17  |
+| BBDC4   | -1.14   | -1.14     | -2.93  | -3.69      | -13.51 |
+| TIMS3   | -2.36   | -4.84     | -2.71  | -13.88     | -5.58  |
+| PETR3   | -0.39   | -3.27     | -2.33  | -2.85      | 10.38  |
+| BBDC3   | -0.42   | -5.84     | -2.14  | -3.30      | -13.41 |
+| FLRY3   | 2.04    | -4.09     | -1.96  | -5.83      | -16.89 |
+| PETR4   | -0.08   | -1.99     | -1.45  | -1.72      | 7.88   |
+| DIRR3   | 0.62    | -1.63     | -1.41  | 1.95       | 47.89  |
+| SANB11  | 0.26    | 0.26      | -1.21  | -4.02      | -12.00 |
