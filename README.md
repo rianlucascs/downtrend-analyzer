@@ -23,10 +23,20 @@ Este projeto tem como objetivo identificar e exibir as tendências de alta e bai
     # Atualizar todos os índices
     download_indices.py
 
-    # Atualizar apenas um indice
+    # Atualizar apenas um indice especifico
     download_indice.py
 
     # Atualizar empresas listadas
     download_empresas_listadas.py
+    ```
+    No arquivo ``download_indices.py``, altere a variável ``indice`` para realizar o download apenas do índice específico desejado.
+    ```python
 
+        from dowtrend import Dowtrend
+
+        if __name__ == '__main__':
+            indice = 'IDIV'
+            indice = f'indice:{indice}'
+            dowtrend = Dowtrend(type_amostra=indice)
+            dowtrend.loop()
 
