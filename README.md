@@ -43,7 +43,6 @@ Este projeto tem como objetivo identificar e exibir as tendências de alta e bai
 
 ## Exemplo de uso
 
-
 ```python
 # Define o período da análise da série temporal
 period = 'mensal'  # Opções: semanal, quinzenal, mensal, trimestral, anual
@@ -84,3 +83,16 @@ dowtrend_data
 ![output1](https://github.com/user-attachments/assets/a4a1ed47-056a-4332-b121-047495618fdd)
 
 ![output2png](https://github.com/user-attachments/assets/c5f4fa35-da4a-4f4a-aa97-41faa4558fca)
+
+Mais exemplos de uso em: **['/analyzer.ipynb'](https://github.com/rianlucascs/downtrend-analyzer/blob/master/analyzer.ipynb)**.
+
+## Contato
+
+Estou à disposição para esclarecer dúvidas ou fornecer mais informações. Você pode entrar em contato através das seguintes opções:
+
+- **LinkedIn:** [Visite meu perfil no LinkedIn](www.linkedin.com/in/rian-lucas)
+- **GitHub:** [Explore meu repositório no GitHub](https://github.com/rianlucascs)
+- **Celular:** +55 61 96437-9500
+
+
+Fico sempre aberto a colaborações e oportunidades de networking!
