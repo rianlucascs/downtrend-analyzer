@@ -1,0 +1,317 @@
+{
+    "ALPA4": {
+        "semanal": 2.22,
+        "quinzenal": 2.22,
+        "mensal": 2.93,
+        "trimestral": 6.19,
+        "anual": -27.08
+    },
+    "ABEV3": {
+        "semanal": 1.12,
+        "quinzenal": -1.17,
+        "mensal": 0.32,
+        "trimestral": -3.06,
+        "anual": -7.65
+    },
+    "ARML3": {
+        "semanal": 6.6,
+        "quinzenal": 8.54,
+        "mensal": 3.75,
+        "trimestral": -1.49,
+        "anual": -53.09
+    },
+    "BRKM5": {
+        "semanal": 1.39,
+        "quinzenal": -1.8,
+        "mensal": -0.46,
+        "trimestral": -12.29,
+        "anual": -20.04
+    },
+    "BRFS3": {
+        "semanal": -0.08,
+        "quinzenal": 6.35,
+        "mensal": -1.64,
+        "trimestral": 9.09,
+        "anual": 86.82
+    },
+    "CAML3": {
+        "semanal": 2.18,
+        "quinzenal": 0.76,
+        "mensal": 0.76,
+        "trimestral": -7.66,
+        "anual": -3.57
+    },
+    "CURY3": {
+        "semanal": -1.67,
+        "quinzenal": -6.14,
+        "mensal": -3.6,
+        "trimestral": 7.0,
+        "anual": 42.17
+    },
+    "CYRE3": {
+        "semanal": 4.08,
+        "quinzenal": 3.6,
+        "mensal": 1.98,
+        "trimestral": 8.04,
+        "anual": -5.24
+    },
+    "DXCO3": {
+        "semanal": 5.96,
+        "quinzenal": 2.03,
+        "mensal": 3.14,
+        "trimestral": -0.12,
+        "anual": 6.74
+    },
+    "DIRR3": {
+        "semanal": 0.62,
+        "quinzenal": -1.63,
+        "mensal": -1.41,
+        "trimestral": 1.95,
+        "anual": 47.89
+    },
+    "EMBR3": {
+        "semanal": 1.24,
+        "quinzenal": -1.13,
+        "mensal": 1.22,
+        "trimestral": 2.29,
+        "anual": 119.16
+    },
+    "EZTC3": {
+        "semanal": 4.1,
+        "quinzenal": 4.1,
+        "mensal": 10.88,
+        "trimestral": 14.49,
+        "anual": -15.76
+    },
+    "GFSA3": {
+        "semanal": 6.85,
+        "quinzenal": -8.24,
+        "mensal": 1.3,
+        "trimestral": -30.04,
+        "anual": -85.03
+    },
+    "GGBR4": {
+        "semanal": 0.05,
+        "quinzenal": 0.22,
+        "mensal": -0.49,
+        "trimestral": -4.66,
+        "anual": -5.65
+    },
+    "GOAU4": {
+        "semanal": 2.06,
+        "quinzenal": 1.67,
+        "mensal": 1.07,
+        "trimestral": -4.95,
+        "anual": -1.56
+    },
+    "GRND3": {
+        "semanal": 2.5,
+        "quinzenal": 1.91,
+        "mensal": 0.19,
+        "trimestral": -5.33,
+        "anual": -21.38
+    },
+    "NTCO3": {
+        "semanal": 4.85,
+        "quinzenal": -2.46,
+        "mensal": 4.16,
+        "trimestral": 1.64,
+        "anual": -11.93
+    },
+    "INTB3": {
+        "semanal": 0.7,
+        "quinzenal": 0.7,
+        "mensal": -2.3,
+        "trimestral": -6.97,
+        "anual": -13.02
+    },
+    "MYPK3": {
+        "semanal": 5.94,
+        "quinzenal": 2.94,
+        "mensal": 3.24,
+        "trimestral": -0.07,
+        "anual": -13.93
+    },
+    "RANI3": {
+        "semanal": 3.59,
+        "quinzenal": 2.46,
+        "mensal": -0.79,
+        "trimestral": 1.35,
+        "anual": -27.44
+    },
+    "JBSS3": {
+        "semanal": 1.46,
+        "quinzenal": 3.65,
+        "mensal": 0.03,
+        "trimestral": 13.88,
+        "anual": 52.6
+    },
+    "JHSF3": {
+        "semanal": 6.96,
+        "quinzenal": 5.51,
+        "mensal": 4.56,
+        "trimestral": 13.81,
+        "anual": -11.1
+    },
+    "KEPL3": {
+        "semanal": 7.38,
+        "quinzenal": 4.63,
+        "mensal": 4.63,
+        "trimestral": 6.63,
+        "anual": 1.13
+    },
+    "KLBN11": {
+        "semanal": 5.14,
+        "quinzenal": 6.05,
+        "mensal": 5.94,
+        "trimestral": 5.79,
+        "anual": 13.51
+    },
+    "MDIA3": {
+        "semanal": 2.63,
+        "quinzenal": 6.38,
+        "mensal": 4.64,
+        "trimestral": 2.71,
+        "anual": -31.87
+    },
+    "POMO4": {
+        "semanal": 4.81,
+        "quinzenal": -1.47,
+        "mensal": 3.07,
+        "trimestral": 9.69,
+        "anual": 31.06
+    },
+    "MRFG3": {
+        "semanal": 3.19,
+        "quinzenal": 9.76,
+        "mensal": 1.08,
+        "trimestral": 16.28,
+        "anual": 63.51
+    },
+    "LEVE3": {
+        "semanal": 1.36,
+        "quinzenal": 0.36,
+        "mensal": 1.77,
+        "trimestral": 0.79,
+        "anual": -9.33
+    },
+    "MILS3": {
+        "semanal": 3.82,
+        "quinzenal": -1.67,
+        "mensal": 0.86,
+        "trimestral": -4.25,
+        "anual": -19.34
+    },
+    "BEEF3": {
+        "semanal": 0.69,
+        "quinzenal": 0.69,
+        "mensal": 0.0,
+        "trimestral": -8.52,
+        "anual": -22.36
+    },
+    "MRVE3": {
+        "semanal": 7.41,
+        "quinzenal": 0.55,
+        "mensal": 4.77,
+        "trimestral": 0.14,
+        "anual": -35.44
+    },
+    "MLAS3": {
+        "semanal": 6.92,
+        "quinzenal": 6.92,
+        "mensal": 4.94,
+        "trimestral": 4.94,
+        "anual": -18.66
+    },
+    "PLPL3": {
+        "semanal": 0.72,
+        "quinzenal": 0.87,
+        "mensal": -1.56,
+        "trimestral": 11.65,
+        "anual": 24.34
+    },
+    "POSI3": {
+        "semanal": 6.27,
+        "quinzenal": 5.75,
+        "mensal": 0.47,
+        "trimestral": 13.38,
+        "anual": -3.06
+    },
+    "RAPT4": {
+        "semanal": 1.83,
+        "quinzenal": -2.84,
+        "mensal": -1.03,
+        "trimestral": -1.76,
+        "anual": -16.17
+    },
+    "SMTO3": {
+        "semanal": 1.16,
+        "quinzenal": 4.66,
+        "mensal": 6.44,
+        "trimestral": 2.82,
+        "anual": -5.39
+    },
+    "CSNA3": {
+        "semanal": 5.49,
+        "quinzenal": 6.96,
+        "mensal": 4.42,
+        "trimestral": -4.65,
+        "anual": -34.09
+    },
+    "SUZB3": {
+        "semanal": 0.85,
+        "quinzenal": 0.85,
+        "mensal": 1.22,
+        "trimestral": 11.13,
+        "anual": 8.75
+    },
+    "TEND3": {
+        "semanal": 4.91,
+        "quinzenal": 5.83,
+        "mensal": 3.93,
+        "trimestral": 25.5,
+        "anual": 5.19
+    },
+    "TUPY3": {
+        "semanal": 1.9,
+        "quinzenal": 1.46,
+        "mensal": 0.86,
+        "trimestral": -8.4,
+        "anual": -17.67
+    },
+    "UNIP6": {
+        "semanal": 4.55,
+        "quinzenal": 1.16,
+        "mensal": 3.24,
+        "trimestral": -1.03,
+        "anual": -33.34
+    },
+    "USIM5": {
+        "semanal": 5.38,
+        "quinzenal": 8.29,
+        "mensal": 0.76,
+        "trimestral": 6.73,
+        "anual": -25.84
+    },
+    "VIVA3": {
+        "semanal": 5.66,
+        "quinzenal": 3.65,
+        "mensal": 2.23,
+        "trimestral": -2.93,
+        "anual": -22.42
+    },
+    "VULC3": {
+        "semanal": 4.77,
+        "quinzenal": 2.88,
+        "mensal": 4.26,
+        "trimestral": 2.44,
+        "anual": 0.29
+    },
+    "WEGE3": {
+        "semanal": 2.39,
+        "quinzenal": 0.11,
+        "mensal": 3.51,
+        "trimestral": 2.98,
+        "anual": 54.24
+    }
+}

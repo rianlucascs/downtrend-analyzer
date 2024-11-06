@@ -1,0 +1,114 @@
+{
+    "AESB3": {
+        "semanal": -28.76,
+        "quinzenal": -30.45,
+        "mensal": -29.73,
+        "trimestral": -29.73,
+        "anual": -32.9
+    },
+    "ALUP11": {
+        "semanal": -0.07,
+        "quinzenal": -0.41,
+        "mensal": -1.64,
+        "trimestral": -5.53,
+        "anual": -0.84
+    },
+    "AURE3": {
+        "semanal": 1.76,
+        "quinzenal": 0.19,
+        "mensal": 1.46,
+        "trimestral": -0.57,
+        "anual": -19.35
+    },
+    "CMIG4": {
+        "semanal": 2.02,
+        "quinzenal": 4.79,
+        "mensal": 1.93,
+        "trimestral": 1.67,
+        "anual": 59.09
+    },
+    "COCE5": {
+        "semanal": 4.96,
+        "quinzenal": 1.44,
+        "mensal": 1.89,
+        "trimestral": 2.42,
+        "anual": -34.82
+    },
+    "CPLE6": {
+        "semanal": 0.73,
+        "quinzenal": -2.63,
+        "mensal": -1.83,
+        "trimestral": -3.98,
+        "anual": -5.1
+    },
+    "CPFE3": {
+        "semanal": 1.39,
+        "quinzenal": 0.43,
+        "mensal": 0.31,
+        "trimestral": -3.12,
+        "anual": -14.65
+    },
+    "ELET3": {
+        "semanal": 1.61,
+        "quinzenal": -3.09,
+        "mensal": -1.74,
+        "trimestral": -5.18,
+        "anual": -11.11
+    },
+    "ENGI11": {
+        "semanal": 2.7,
+        "quinzenal": 1.06,
+        "mensal": -0.28,
+        "trimestral": -3.93,
+        "anual": -16.77
+    },
+    "ENEV3": {
+        "semanal": 0.32,
+        "quinzenal": -3.79,
+        "mensal": -2.91,
+        "trimestral": -9.09,
+        "anual": -6.69
+    },
+    "EGIE3": {
+        "semanal": 1.63,
+        "quinzenal": 1.28,
+        "mensal": 0.75,
+        "trimestral": -1.58,
+        "anual": -2.8
+    },
+    "EQTL3": {
+        "semanal": 2.36,
+        "quinzenal": -0.28,
+        "mensal": 0.09,
+        "trimestral": -1.08,
+        "anual": -8.61
+    },
+    "NEOE3": {
+        "semanal": 1.83,
+        "quinzenal": 1.83,
+        "mensal": 1.83,
+        "trimestral": -0.77,
+        "anual": -4.96
+    },
+    "SRNA3": {
+        "semanal": -5.59,
+        "quinzenal": -12.0,
+        "mensal": -12.53,
+        "trimestral": -11.03,
+        "anual": -28.89
+    },
+    "TAEE11": {
+        "semanal": 0.17,
+        "quinzenal": 0.46,
+        "mensal": -0.97,
+        "trimestral": 1.29,
+        "anual": -2.17
+    },
+    "TRPL4": {
+        "semanal": 2.37,
+        "quinzenal": 0.69,
+        "mensal": 1.56,
+        "trimestral": 1.52,
+        "anual": -6.91
+    }
+}

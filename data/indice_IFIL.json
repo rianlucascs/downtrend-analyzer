@@ -1,0 +1,478 @@
+{
+    "CACR11": {
+        "semanal": 1.26,
+        "quinzenal": 2.08,
+        "mensal": 1.09,
+        "trimestral": -3.04,
+        "anual": NaN
+    },
+    "AFHI11": {
+        "semanal": 1.25,
+        "quinzenal": 1.88,
+        "mensal": 1.78,
+        "trimestral": -1.49,
+        "anual": 4.59
+    },
+    "ALZR11": {
+        "semanal": -0.44,
+        "quinzenal": -0.92,
+        "mensal": 0.05,
+        "trimestral": -2.5,
+        "anual": -7.66
+    },
+    "BRCR11": {
+        "semanal": -0.37,
+        "quinzenal": -2.36,
+        "mensal": -0.11,
+        "trimestral": -7.97,
+        "anual": -19.95
+    },
+    "BRCO11": {
+        "semanal": -1.2,
+        "quinzenal": -0.26,
+        "mensal": -2.0,
+        "trimestral": -4.52,
+        "anual": -7.67
+    },
+    "BTCI11": {
+        "semanal": 0.0,
+        "quinzenal": 0.0,
+        "mensal": 1.1,
+        "trimestral": -7.22,
+        "anual": 1.6
+    },
+    "BTLG11": {
+        "semanal": -0.86,
+        "quinzenal": 0.99,
+        "mensal": 0.32,
+        "trimestral": -0.73,
+        "anual": 0.3
+    },
+    "CPTS11": {
+        "semanal": -0.28,
+        "quinzenal": -0.69,
+        "mensal": -0.28,
+        "trimestral": -7.06,
+        "anual": -7.18
+    },
+    "CLIN11": {
+        "semanal": -1.3,
+        "quinzenal": 1.24,
+        "mensal": 0.27,
+        "trimestral": -0.31,
+        "anual": 3.95
+    },
+    "DEVA11": {
+        "semanal": 0.61,
+        "quinzenal": 0.61,
+        "mensal": -0.45,
+        "trimestral": -9.88,
+        "anual": -13.94
+    },
+    "VRTA11": {
+        "semanal": -1.5,
+        "quinzenal": -0.19,
+        "mensal": -1.69,
+        "trimestral": -5.93,
+        "anual": 0.91
+    },
+    "GTWR11": {
+        "semanal": 0.48,
+        "quinzenal": 2.73,
+        "mensal": -0.51,
+        "trimestral": -4.22,
+        "anual": -5.82
+    },
+    "GGRC11": {
+        "semanal": 0.49,
+        "quinzenal": 0.98,
+        "mensal": 0.98,
+        "trimestral": -1.71,
+        "anual": -90.21
+    },
+    "GARE11": {
+        "semanal": 0.0,
+        "quinzenal": 0.0,
+        "mensal": 0.58,
+        "trimestral": 2.03,
+        "anual": NaN
+    },
+    "HABT11": {
+        "semanal": -1.18,
+        "quinzenal": -2.33,
+        "mensal": -1.55,
+        "trimestral": -6.11,
+        "anual": -1.16
+    },
+    "HCTR11": {
+        "semanal": 0.9,
+        "quinzenal": 0.5,
+        "mensal": 1.6,
+        "trimestral": -4.18,
+        "anual": -20.13
+    },
+    "HGBS11": {
+        "semanal": -0.8,
+        "quinzenal": -0.8,
+        "mensal": -0.12,
+        "trimestral": -2.12,
+        "anual": -7.38
+    },
+    "HGCR11": {
+        "semanal": 0.05,
+        "quinzenal": -1.08,
+        "mensal": -1.18,
+        "trimestral": -3.73,
+        "anual": 1.17
+    },
+    "HGLG11": {
+        "semanal": -0.72,
+        "quinzenal": -0.72,
+        "mensal": -0.89,
+        "trimestral": -2.25,
+        "anual": 2.0
+    },
+    "HGRE11": {
+        "semanal": -1.9,
+        "quinzenal": -0.56,
+        "mensal": -2.21,
+        "trimestral": 0.13,
+        "anual": -16.11
+    },
+    "HGRU11": {
+        "semanal": -1.24,
+        "quinzenal": -1.1,
+        "mensal": -1.75,
+        "trimestral": -1.49,
+        "anual": -8.23
+    },
+    "HTMX11": {
+        "semanal": -3.29,
+        "quinzenal": -2.69,
+        "mensal": -3.29,
+        "trimestral": -10.88,
+        "anual": 3.2
+    },
+    "HSML11": {
+        "semanal": 2.02,
+        "quinzenal": 2.02,
+        "mensal": 1.12,
+        "trimestral": -3.77,
+        "anual": -0.79
+    },
+    "HFOF11": {
+        "semanal": -1.32,
+        "quinzenal": 0.35,
+        "mensal": -3.49,
+        "trimestral": -6.68,
+        "anual": -14.68
+    },
+    "IRDM11": {
+        "semanal": 0.88,
+        "quinzenal": 2.41,
+        "mensal": 0.52,
+        "trimestral": 1.26,
+        "anual": -8.71
+    },
+    "JSAF11": {
+        "semanal": 0.95,
+        "quinzenal": -2.0,
+        "mensal": -1.0,
+        "trimestral": -7.9,
+        "anual": -7.58
+    },
+    "JSRE11": {
+        "semanal": -1.49,
+        "quinzenal": 1.58,
+        "mensal": -1.05,
+        "trimestral": -1.31,
+        "anual": -12.32
+    },
+    "KISU11": {
+        "semanal": -0.14,
+        "quinzenal": -0.59,
+        "mensal": 0.08,
+        "trimestral": -5.54,
+        "anual": -6.32
+    },
+    "KNRI11": {
+        "semanal": -0.29,
+        "quinzenal": -0.07,
+        "mensal": -0.29,
+        "trimestral": -0.29,
+        "anual": -11.26
+    },
+    "KNHF11": {
+        "semanal": 1.87,
+        "quinzenal": 1.45,
+        "mensal": 1.11,
+        "trimestral": -3.43,
+        "anual": -7.21
+    },
+    "KNHY11": {
+        "semanal": -0.05,
+        "quinzenal": -0.33,
+        "mensal": -0.29,
+        "trimestral": -2.39,
+        "anual": 10.59
+    },
+    "KNIP11": {
+        "semanal": -1.02,
+        "quinzenal": -0.22,
+        "mensal": -0.22,
+        "trimestral": -2.11,
+        "anual": 4.55
+    },
+    "KNCR11": {
+        "semanal": 0.06,
+        "quinzenal": 0.15,
+        "mensal": -0.28,
+        "trimestral": -1.14,
+        "anual": 9.72
+    },
+    "KNSC11": {
+        "semanal": -0.23,
+        "quinzenal": -0.23,
+        "mensal": -0.46,
+        "trimestral": -4.35,
+        "anual": 5.85
+    },
+    "KFOF11": {
+        "semanal": -0.12,
+        "quinzenal": 1.22,
+        "mensal": 0.03,
+        "trimestral": -9.44,
+        "anual": -15.07
+    },
+    "KORE11": {
+        "semanal": -6.67,
+        "quinzenal": -6.67,
+        "mensal": -7.28,
+        "trimestral": -14.44,
+        "anual": -12.49
+    },
+    "MALL11": {
+        "semanal": 0.6,
+        "quinzenal": 2.44,
+        "mensal": -0.11,
+        "trimestral": 0.16,
+        "anual": -7.57
+    },
+    "MCCI11": {
+        "semanal": 0.49,
+        "quinzenal": 3.59,
+        "mensal": 0.83,
+        "trimestral": -3.54,
+        "anual": -2.67
+    },
+    "MCHY11": {
+        "semanal": 2.72,
+        "quinzenal": 3.08,
+        "mensal": 3.08,
+        "trimestral": 0.39,
+        "anual": -13.27
+    },
+    "MXRF11": {
+        "semanal": -1.17,
+        "quinzenal": -1.18,
+        "mensal": -2.62,
+        "trimestral": -4.5,
+        "anual": -2.13
+    },
+    "RBRX11": {
+        "semanal": -1.64,
+        "quinzenal": 3.32,
+        "mensal": -1.75,
+        "trimestral": -1.6,
+        "anual": -0.52
+    },
+    "RBRY11": {
+        "semanal": 0.22,
+        "quinzenal": -1.76,
+        "mensal": 1.36,
+        "trimestral": -2.43,
+        "anual": 3.13
+    },
+    "RBRP11": {
+        "semanal": 0.34,
+        "quinzenal": 3.99,
+        "mensal": 1.77,
+        "trimestral": -0.1,
+        "anual": 5.16
+    },
+    "RBRF11": {
+        "semanal": 0.15,
+        "quinzenal": -2.17,
+        "mensal": -2.17,
+        "trimestral": -2.37,
+        "anual": -10.89
+    },
+    "RBRR11": {
+        "semanal": 1.88,
+        "quinzenal": 1.66,
+        "mensal": -0.13,
+        "trimestral": -2.42,
+        "anual": 5.76
+    },
+    "RECR11": {
+        "semanal": 0.04,
+        "quinzenal": -2.43,
+        "mensal": -0.22,
+        "trimestral": -6.31,
+        "anual": -4.08
+    },
+    "RBVA11": {
+        "semanal": -0.75,
+        "quinzenal": -0.56,
+        "mensal": -0.56,
+        "trimestral": -2.99,
+        "anual": -5.57
+    },
+    "RZAK11": {
+        "semanal": 1.29,
+        "quinzenal": 2.42,
+        "mensal": 1.7,
+        "trimestral": 2.13,
+        "anual": 1.89
+    },
+    "RZTR11": {
+        "semanal": -0.22,
+        "quinzenal": 0.32,
+        "mensal": -0.92,
+        "trimestral": -3.69,
+        "anual": -12.44
+    },
+    "SARE11": {
+        "semanal": -0.25,
+        "quinzenal": 1.54,
+        "mensal": -0.76,
+        "trimestral": -0.76,
+        "anual": 14.55
+    },
+    "SPXS11": {
+        "semanal": -0.32,
+        "quinzenal": 1.75,
+        "mensal": -0.53,
+        "trimestral": 0.57,
+        "anual": 8.47
+    },
+    "TGAR11": {
+        "semanal": -1.65,
+        "quinzenal": -0.22,
+        "mensal": -2.07,
+        "trimestral": -10.17,
+        "anual": -8.9
+    },
+    "TVRI11": {
+        "semanal": -0.95,
+        "quinzenal": -0.95,
+        "mensal": 0.23,
+        "trimestral": -3.96,
+        "anual": 5.79
+    },
+    "TRXF11": {
+        "semanal": -0.25,
+        "quinzenal": 0.77,
+        "mensal": -0.15,
+        "trimestral": -3.75,
+        "anual": -1.07
+    },
+    "URPR11": {
+        "semanal": -0.77,
+        "quinzenal": -0.77,
+        "mensal": -2.07,
+        "trimestral": -16.28,
+        "anual": -14.06
+    },
+    "VGHF11": {
+        "semanal": 1.03,
+        "quinzenal": 1.03,
+        "mensal": 1.82,
+        "trimestral": -6.14,
+        "anual": -8.4
+    },
+    "VGIP11": {
+        "semanal": -0.95,
+        "quinzenal": -2.42,
+        "mensal": -0.59,
+        "trimestral": -4.01,
+        "anual": 1.12
+    },
+    "VGIR11": {
+        "semanal": -1.12,
+        "quinzenal": 1.79,
+        "mensal": -1.43,
+        "trimestral": -0.32,
+        "anual": 9.33
+    },
+    "CVBI11": {
+        "semanal": -2.19,
+        "quinzenal": 0.84,
+        "mensal": -2.63,
+        "trimestral": -4.13,
+        "anual": 1.56
+    },
+    "LVBI11": {
+        "semanal": -0.08,
+        "quinzenal": -0.86,
+        "mensal": -1.91,
+        "trimestral": -5.9,
+        "anual": -7.23
+    },
+    "PVBI11": {
+        "semanal": 0.37,
+        "quinzenal": 0.25,
+        "mensal": -0.62,
+        "trimestral": -5.01,
+        "anual": -17.62
+    },
+    "VCJR11": {
+        "semanal": 2.33,
+        "quinzenal": 2.33,
+        "mensal": 4.2,
+        "trimestral": -1.39,
+        "anual": 2.43
+    },
+    "VILG11": {
+        "semanal": -0.14,
+        "quinzenal": -0.14,
+        "mensal": -1.29,
+        "trimestral": -4.41,
+        "anual": -13.49
+    },
+    "VINO11": {
+        "semanal": -1.99,
+        "quinzenal": -2.38,
+        "mensal": -2.38,
+        "trimestral": -1.41,
+        "anual": -29.31
+    },
+    "VISC11": {
+        "semanal": -0.35,
+        "quinzenal": 3.91,
+        "mensal": -0.74,
+        "trimestral": -3.36,
+        "anual": -8.86
+    },
+    "XPCI11": {
+        "semanal": -0.59,
+        "quinzenal": -0.81,
+        "mensal": 2.29,
+        "trimestral": -5.78,
+        "anual": 3.18
+    },
+    "XPLG11": {
+        "semanal": -0.03,
+        "quinzenal": 2.49,
+        "mensal": 0.88,
+        "trimestral": -1.96,
+        "anual": -3.96
+    },
+    "XPML11": {
+        "semanal": 0.11,
+        "quinzenal": 0.11,
+        "mensal": -0.17,
+        "trimestral": -2.8,
+        "anual": -3.85
+    }
+}

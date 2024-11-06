@@ -1,0 +1,44 @@
+{
+    "BBSE3": {
+        "semanal": 2.42,
+        "quinzenal": 2.36,
+        "mensal": 2.45,
+        "trimestral": -1.1,
+        "anual": 12.49
+    },
+    "BBAS3": {
+        "semanal": 0.61,
+        "quinzenal": -0.19,
+        "mensal": -0.3,
+        "trimestral": -3.42,
+        "anual": 0.1
+    },
+    "CXSE3": {
+        "semanal": 1.86,
+        "quinzenal": 2.21,
+        "mensal": 2.85,
+        "trimestral": 1.79,
+        "anual": 21.25
+    },
+    "CMIG4": {
+        "semanal": 2.02,
+        "quinzenal": 4.79,
+        "mensal": 1.93,
+        "trimestral": 1.67,
+        "anual": 59.09
+    },
+    "PETR3": {
+        "semanal": -0.39,
+        "quinzenal": -3.27,
+        "mensal": -2.33,
+        "trimestral": -2.85,
+        "anual": 10.38
+    },
+    "PETR4": {
+        "semanal": -0.08,
+        "quinzenal": -1.99,
+        "mensal": -1.45,
+        "trimestral": -1.72,
+        "anual": 7.88
+    }
+}

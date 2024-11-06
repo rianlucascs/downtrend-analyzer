@@ -1,0 +1,1080 @@
+{
+    "ABBV34": {
+        "semanal": -2.82,
+        "quinzenal": 9.07,
+        "mensal": -2.0,
+        "trimestral": 8.41,
+        "anual": 59.54
+    },
+    "ADBE34": {
+        "semanal": -1.55,
+        "quinzenal": 0.99,
+        "mensal": 0.32,
+        "trimestral": -0.83,
+        "anual": -2.47
+    },
+    "A1AP34": {
+        "semanal": 3.85,
+        "quinzenal": 4.24,
+        "mensal": 6.17,
+        "trimestral": 3.47,
+        "anual": -24.93
+    },
+    "A1MD34": {
+        "semanal": -2.76,
+        "quinzenal": -9.46,
+        "mensal": -2.26,
+        "trimestral": -8.81,
+        "anual": 12.98
+    },
+    "AIRB34": {
+        "semanal": 0.46,
+        "quinzenal": 3.4,
+        "mensal": 0.82,
+        "trimestral": 14.52,
+        "anual": 18.12
+    },
+    "A1LB34": {
+        "semanal": -0.92,
+        "quinzenal": -0.92,
+        "mensal": 3.85,
+        "trimestral": 10.53,
+        "anual": -21.89
+    },
+    "BABA34": {
+        "semanal": -1.02,
+        "quinzenal": -1.07,
+        "mensal": 0.54,
+        "trimestral": -1.41,
+        "anual": 53.39
+    },
+    "GOGL34": {
+        "semanal": -3.06,
+        "quinzenal": 5.3,
+        "mensal": -1.68,
+        "trimestral": 8.04,
+        "anual": 44.85
+    },
+    "GOGL35": {
+        "semanal": -3.0,
+        "quinzenal": 4.77,
+        "mensal": -1.81,
+        "trimestral": 8.31,
+        "anual": 44.74
+    },
+    "AMZO34": {
+        "semanal": -1.17,
+        "quinzenal": 8.15,
+        "mensal": 1.73,
+        "trimestral": 13.27,
+        "anual": 53.97
+    },
+    "AALL34": {
+        "semanal": -4.34,
+        "quinzenal": 3.98,
+        "mensal": -2.81,
+        "trimestral": 23.6,
+        "anual": 11.01
+    },
+    "AXPB34": {
+        "semanal": -1.19,
+        "quinzenal": -1.19,
+        "mensal": 0.75,
+        "trimestral": 7.74,
+        "anual": 76.83
+    },
+    "T1OW34": {
+        "semanal": -1.45,
+        "quinzenal": -1.45,
+        "mensal": -1.27,
+        "trimestral": -2.26,
+        "anual": 19.48
+    },
+    "AAPL34": {
+        "semanal": -2.3,
+        "quinzenal": -3.0,
+        "mensal": -3.0,
+        "trimestral": 1.17,
+        "anual": 37.17
+    },
+    "A1MT34": {
+        "semanal": -0.33,
+        "quinzenal": 0.12,
+        "mensal": 1.2,
+        "trimestral": -2.35,
+        "anual": 35.9
+    },
+    "ARMT34": {
+        "semanal": 0.49,
+        "quinzenal": 0.1,
+        "mensal": 1.55,
+        "trimestral": 0.98,
+        "anual": 5.69
+    },
+    "A1NE34": {
+        "semanal": 0.78,
+        "quinzenal": 0.78,
+        "mensal": 3.17,
+        "trimestral": 11.9,
+        "anual": 102.68
+    },
+    "ASML34": {
+        "semanal": -2.74,
+        "quinzenal": -0.71,
+        "mensal": -0.94,
+        "trimestral": -15.74,
+        "anual": 6.42
+    },
+    "A1ZN34": {
+        "semanal": -9.06,
+        "quinzenal": -12.36,
+        "mensal": -8.18,
+        "trimestral": -10.2,
+        "anual": 19.39
+    },
+    "ATTB34": {
+        "semanal": -2.7,
+        "quinzenal": -0.26,
+        "mensal": -3.39,
+        "trimestral": 6.94,
+        "anual": 65.26
+    },
+    "BIDU34": {
+        "semanal": -2.04,
+        "quinzenal": -0.99,
+        "mensal": -2.22,
+        "trimestral": -9.51,
+        "anual": -8.43
+    },
+    "B1SA34": {
+        "semanal": 0.0,
+        "quinzenal": -2.67,
+        "mensal": 0.0,
+        "trimestral": -0.11,
+        "anual": 26.01
+    },
+    "C2OL34": {
+        "semanal": -0.54,
+        "quinzenal": -0.54,
+        "mensal": 0.19,
+        "trimestral": 6.81,
+        "anual": 33.51
+    },
+    "BOAC34": {
+        "semanal": -2.62,
+        "quinzenal": 0.02,
+        "mensal": -1.48,
+        "trimestral": 10.82,
+        "anual": 48.78
+    },
+    "BERK34": {
+        "semanal": -3.75,
+        "quinzenal": -2.55,
+        "mensal": -2.61,
+        "trimestral": 2.22,
+        "anual": 48.21
+    },
+    "B2YN34": {
+        "semanal": 2.25,
+        "quinzenal": 2.25,
+        "mensal": 2.25,
+        "trimestral": -2.67,
+        "anual": -13.33
+    },
+    "B1IL34": {
+        "semanal": 4.56,
+        "quinzenal": 4.56,
+        "mensal": 4.56,
+        "trimestral": 5.59,
+        "anual": 135.26
+    },
+    "B2HI34": {
+        "semanal": -1.06,
+        "quinzenal": -1.06,
+        "mensal": 0.0,
+        "trimestral": 15.43,
+        "anual": -17.62
+    },
+    "B1NT34": {
+        "semanal": -1.38,
+        "quinzenal": -2.16,
+        "mensal": -2.87,
+        "trimestral": -0.8,
+        "anual": 25.53
+    },
+    "BLAK34": {
+        "semanal": 0.51,
+        "quinzenal": 3.63,
+        "mensal": 1.42,
+        "trimestral": 12.76,
+        "anual": 49.4
+    },
+    "S2QU34": {
+        "semanal": -1.13,
+        "quinzenal": -1.13,
+        "mensal": -1.13,
+        "trimestral": 14.32,
+        "anual": 8.52
+    },
+    "BKNG34": {
+        "semanal": 1.13,
+        "quinzenal": 1.83,
+        "mensal": 4.14,
+        "trimestral": 22.23,
+        "anual": 65.17
+    },
+    "B1PP34": {
+        "semanal": 0.33,
+        "quinzenal": -2.31,
+        "mensal": 1.24,
+        "trimestral": 0.79,
+        "anual": 5.33
+    },
+    "B1TI34": {
+        "semanal": -0.85,
+        "quinzenal": 1.81,
+        "mensal": -0.15,
+        "trimestral": 1.7,
+        "anual": 53.83
+    },
+    "AVGO34": {
+        "semanal": 1.06,
+        "quinzenal": 0.56,
+        "mensal": 1.85,
+        "trimestral": 4.0,
+        "anual": 83.12
+    },
+    "CATP34": {
+        "semanal": -1.31,
+        "quinzenal": -1.31,
+        "mensal": 0.37,
+        "trimestral": 3.59,
+        "anual": 55.69
+    },
+    "CHCM34": {
+        "semanal": 1.76,
+        "quinzenal": 1.76,
+        "mensal": 15.85,
+        "trimestral": 23.96,
+        "anual": 15.52
+    },
+    "CHVX34": {
+        "semanal": -3.94,
+        "quinzenal": 0.65,
+        "mensal": -0.2,
+        "trimestral": 7.85,
+        "anual": 23.24
+    },
+    "CSCO34": {
+        "semanal": -0.77,
+        "quinzenal": 0.86,
+        "mensal": 0.83,
+        "trimestral": 10.18,
+        "anual": 35.6
+    },
+    "CTGP34": {
+        "semanal": -2.46,
+        "quinzenal": -1.21,
+        "mensal": -1.64,
+        "trimestral": 8.05,
+        "anual": 50.74
+    },
+    "COCA34": {
+        "semanal": -0.68,
+        "quinzenal": -0.74,
+        "mensal": -0.69,
+        "trimestral": -4.2,
+        "anual": 35.73
+    },
+    "C2OI34": {
+        "semanal": 5.52,
+        "quinzenal": -6.78,
+        "mensal": 9.06,
+        "trimestral": 17.58,
+        "anual": 26.86
+    },
+    "COLG34": {
+        "semanal": -1.07,
+        "quinzenal": -1.07,
+        "mensal": -0.35,
+        "trimestral": -3.2,
+        "anual": 45.39
+    },
+    "CMCS34": {
+        "semanal": -4.57,
+        "quinzenal": 0.72,
+        "mensal": -3.44,
+        "trimestral": 8.33,
+        "anual": 17.31
+    },
+    "COPH34": {
+        "semanal": 1.14,
+        "quinzenal": 0.57,
+        "mensal": -0.24,
+        "trimestral": 10.81,
+        "anual": 14.22
+    },
+    "COWC34": {
+        "semanal": -0.55,
+        "quinzenal": 0.17,
+        "mensal": 0.31,
+        "trimestral": 5.43,
+        "anual": 60.57
+    },
+    "C2RW34": {
+        "semanal": 0.0,
+        "quinzenal": 0.0,
+        "mensal": 3.08,
+        "trimestral": 17.3,
+        "anual": 43.44
+    },
+    "CSXC34": {
+        "semanal": -0.31,
+        "quinzenal": -0.31,
+        "mensal": -0.35,
+        "trimestral": 4.28,
+        "anual": 16.84
+    },
+    "DHER34": {
+        "semanal": -1.92,
+        "quinzenal": 1.17,
+        "mensal": -0.04,
+        "trimestral": -4.92,
+        "anual": 25.59
+    },
+    "DEEC34": {
+        "semanal": -2.48,
+        "quinzenal": -1.63,
+        "mensal": -2.48,
+        "trimestral": 1.7,
+        "anual": 20.15
+    },
+    "D1EL34": {
+        "semanal": 0.01,
+        "quinzenal": 0.01,
+        "mensal": 6.16,
+        "trimestral": 19.35,
+        "anual": 107.82
+    },
+    "DEOP34": {
+        "semanal": -1.78,
+        "quinzenal": -0.2,
+        "mensal": -1.12,
+        "trimestral": -6.16,
+        "anual": 4.89
+    },
+    "DGCO34": {
+        "semanal": -2.2,
+        "quinzenal": -2.2,
+        "mensal": 0.41,
+        "trimestral": 2.41,
+        "anual": -28.03
+    },
+    "E1CO34": {
+        "semanal": -1.75,
+        "quinzenal": -4.62,
+        "mensal": -2.19,
+        "trimestral": -10.25,
+        "anual": -14.9
+    },
+    "EQIX34": {
+        "semanal": -0.5,
+        "quinzenal": -1.08,
+        "mensal": -1.6,
+        "trimestral": 7.99,
+        "anual": 34.75
+    },
+    "E1QN34": {
+        "semanal": -0.18,
+        "quinzenal": -3.53,
+        "mensal": -1.09,
+        "trimestral": -1.11,
+        "anual": -6.36
+    },
+    "EXXO34": {
+        "semanal": 1.09,
+        "quinzenal": -0.21,
+        "mensal": 0.94,
+        "trimestral": 7.53,
+        "anual": 43.29
+    },
+    "FSLR34": {
+        "semanal": 3.15,
+        "quinzenal": 10.08,
+        "mensal": 9.1,
+        "trimestral": -9.09,
+        "anual": 48.84
+    },
+    "FDMO34": {
+        "semanal": 0.73,
+        "quinzenal": -4.9,
+        "mensal": 1.24,
+        "trimestral": 4.91,
+        "anual": 4.7
+    },
+    "F2NV34": {
+        "semanal": -1.39,
+        "quinzenal": 0.95,
+        "mensal": -0.47,
+        "trimestral": 12.96,
+        "anual": 43.35
+    },
+    "GEOO34": {
+        "semanal": -4.65,
+        "quinzenal": -1.78,
+        "mensal": 0.63,
+        "trimestral": -1.77,
+        "anual": 294.69
+    },
+    "GMCO34": {
+        "semanal": 3.14,
+        "quinzenal": 3.01,
+        "mensal": 3.99,
+        "trimestral": 25.58,
+        "anual": 77.68
+    },
+    "GSGI34": {
+        "semanal": -0.18,
+        "quinzenal": 2.74,
+        "mensal": 0.88,
+        "trimestral": 13.01,
+        "anual": 65.57
+    },
+    "HOME34": {
+        "semanal": -0.44,
+        "quinzenal": -0.17,
+        "mensal": -0.17,
+        "trimestral": 4.18,
+        "anual": 38.65
+    },
+    "HPQB34": {
+        "semanal": -1.62,
+        "quinzenal": -1.27,
+        "mensal": 0.99,
+        "trimestral": 6.69,
+        "anual": 46.26
+    },
+    "H1SB34": {
+        "semanal": 0.15,
+        "quinzenal": 5.43,
+        "mensal": 1.42,
+        "trimestral": 10.25,
+        "anual": 49.25
+    },
+    "ITLC34": {
+        "semanal": -1.59,
+        "quinzenal": 3.29,
+        "mensal": -4.25,
+        "trimestral": 5.63,
+        "anual": -44.49
+    },
+    "JDCO34": {
+        "semanal": -2.53,
+        "quinzenal": -2.53,
+        "mensal": -1.43,
+        "trimestral": 5.82,
+        "anual": 73.26
+    },
+    "JNJB34": {
+        "semanal": -4.24,
+        "quinzenal": -3.16,
+        "mensal": -3.16,
+        "trimestral": 2.3,
+        "anual": 21.31
+    },
+    "JPMC34": {
+        "semanal": -3.0,
+        "quinzenal": -0.39,
+        "mensal": -1.28,
+        "trimestral": 10.84,
+        "anual": 57.53
+    },
+    "K2CG34": {
+        "semanal": 15.75,
+        "quinzenal": 13.67,
+        "mensal": 19.7,
+        "trimestral": 19.25,
+        "anual": 4.64
+    },
+    "KHCB34": {
+        "semanal": -2.46,
+        "quinzenal": -2.46,
+        "mensal": -1.11,
+        "trimestral": 0.82,
+        "anual": 10.29
+    },
+    "LILY34": {
+        "semanal": -3.7,
+        "quinzenal": -1.08,
+        "mensal": -3.94,
+        "trimestral": -4.22,
+        "anual": 65.42
+    },
+    "L1YG34": {
+        "semanal": -1.39,
+        "quinzenal": -10.01,
+        "mensal": 1.62,
+        "trimestral": -4.29,
+        "anual": 48.01
+    },
+    "L1MN34": {
+        "semanal": 8.8,
+        "quinzenal": 8.8,
+        "mensal": 20.45,
+        "trimestral": 11.14,
+        "anual": 400.0
+    },
+    "MSCD34": {
+        "semanal": -3.65,
+        "quinzenal": -0.29,
+        "mensal": -0.66,
+        "trimestral": 5.13,
+        "anual": 41.45
+    },
+    "MCDC34": {
+        "semanal": -0.61,
+        "quinzenal": 1.44,
+        "mensal": 0.69,
+        "trimestral": 3.06,
+        "anual": 22.0
+    },
+    "M2PW34": {
+        "semanal": -2.24,
+        "quinzenal": -2.24,
+        "mensal": -3.33,
+        "trimestral": -18.01,
+        "anual": 11.68
+    },
+    "MELI34": {
+        "semanal": -0.12,
+        "quinzenal": 2.96,
+        "mensal": 2.05,
+        "trimestral": 8.15,
+        "anual": 55.18
+    },
+    "MRCK34": {
+        "semanal": -3.05,
+        "quinzenal": -3.05,
+        "mensal": -2.15,
+        "trimestral": -6.06,
+        "anual": 12.51
+    },
+    "M1TA34": {
+        "semanal": -1.66,
+        "quinzenal": -0.28,
+        "mensal": 0.02,
+        "trimestral": 5.04,
+        "anual": 90.33
+    },
+    "MUTC34": {
+        "semanal": 3.15,
+        "quinzenal": 3.15,
+        "mensal": 5.38,
+        "trimestral": 8.08,
+        "anual": 47.4
+    },
+    "MSFT34": {
+        "semanal": -1.97,
+        "quinzenal": -3.67,
+        "mensal": 0.12,
+        "trimestral": 1.09,
+        "anual": 30.63
+    },
+    "M2ST34": {
+        "semanal": -2.35,
+        "quinzenal": -2.35,
+        "mensal": -7.56,
+        "trimestral": 42.17,
+        "anual": 294.98
+    },
+    "M1RN34": {
+        "semanal": -7.53,
+        "quinzenal": -1.31,
+        "mensal": -4.31,
+        "trimestral": -17.98,
+        "anual": -36.37
+    },
+    "M1NS34": {
+        "semanal": 1.73,
+        "quinzenal": 1.41,
+        "mensal": 1.17,
+        "trimestral": 8.56,
+        "anual": 12.01
+    },
+    "MSBR34": {
+        "semanal": -1.25,
+        "quinzenal": -1.2,
+        "mensal": -0.36,
+        "trimestral": 20.32,
+        "anual": 52.02
+    },
+    "N1DA34": {
+        "semanal": 0.22,
+        "quinzenal": 3.31,
+        "mensal": 1.64,
+        "trimestral": 10.53,
+        "anual": 54.57
+    },
+    "NFLX34": {
+        "semanal": 0.15,
+        "quinzenal": 3.04,
+        "mensal": -0.26,
+        "trimestral": 13.69,
+        "anual": 85.26
+    },
+    "E1DU34": {
+        "semanal": -2.8,
+        "quinzenal": -3.12,
+        "mensal": -2.92,
+        "trimestral": -13.48,
+        "anual": 5.7
+    },
+    "N1EM34": {
+        "semanal": 3.89,
+        "quinzenal": 0.15,
+        "mensal": 4.7,
+        "trimestral": -4.64,
+        "anual": 37.31
+    },
+    "NEXT34": {
+        "semanal": 1.05,
+        "quinzenal": 1.05,
+        "mensal": 0.99,
+        "trimestral": 1.3,
+        "anual": 60.34
+    },
+    "NIKE34": {
+        "semanal": -1.57,
+        "quinzenal": -0.11,
+        "mensal": 0.94,
+        "trimestral": -6.46,
+        "anual": -13.18
+    },
+    "N1VO34": {
+        "semanal": -2.08,
+        "quinzenal": -4.48,
+        "mensal": -1.22,
+        "trimestral": -1.11,
+        "anual": 29.43
+    },
+    "ROXO34": {
+        "semanal": 1.01,
+        "quinzenal": -6.2,
+        "mensal": -2.63,
+        "trimestral": 13.83,
+        "anual": 103.91
+    },
+    "NVDC34": {
+        "semanal": 1.39,
+        "quinzenal": -0.42,
+        "mensal": 4.37,
+        "trimestral": 21.67,
+        "anual": 236.0
+    },
+    "OXYP34": {
+        "semanal": -1.75,
+        "quinzenal": -1.75,
+        "mensal": -0.84,
+        "trimestral": 3.5,
+        "anual": 0.63
+    },
+    "ORCL34": {
+        "semanal": -2.09,
+        "quinzenal": 0.48,
+        "mensal": 0.76,
+        "trimestral": 7.38,
+        "anual": 94.38
+    },
+    "PAGS34": {
+        "semanal": 2.78,
+        "quinzenal": 1.16,
+        "mensal": 2.67,
+        "trimestral": 2.78,
+        "anual": -21.76
+    },
+    "P2LT34": {
+        "semanal": 18.77,
+        "quinzenal": 17.7,
+        "mensal": 22.44,
+        "trimestral": 45.54,
+        "anual": 243.28
+    },
+    "P2AN34": {
+        "semanal": -4.57,
+        "quinzenal": -4.57,
+        "mensal": 0.94,
+        "trimestral": 13.94,
+        "anual": 46.21
+    },
+    "PYPL34": {
+        "semanal": 0.35,
+        "quinzenal": 0.35,
+        "mensal": -1.73,
+        "trimestral": 7.08,
+        "anual": 49.34
+    },
+    "P1DD34": {
+        "semanal": -2.25,
+        "quinzenal": -1.06,
+        "mensal": 0.85,
+        "trimestral": -4.03,
+        "anual": -1.51
+    },
+    "PEPB34": {
+        "semanal": -1.23,
+        "quinzenal": -0.33,
+        "mensal": -0.33,
+        "trimestral": 3.46,
+        "anual": 19.39
+    },
+    "PFIZ34": {
+        "semanal": -3.12,
+        "quinzenal": -0.65,
+        "mensal": -3.03,
+        "trimestral": 1.21,
+        "anual": 18.98
+    },
+    "PGCO34": {
+        "semanal": -2.6,
+        "quinzenal": -1.72,
+        "mensal": -1.6,
+        "trimestral": 0.28,
+        "anual": 37.06
+    },
+    "P1LD34": {
+        "semanal": -2.5,
+        "quinzenal": -2.27,
+        "mensal": -0.53,
+        "trimestral": -4.62,
+        "anual": 2.72
+    },
+    "QCOM34": {
+        "semanal": -3.29,
+        "quinzenal": -3.27,
+        "mensal": 0.61,
+        "trimestral": 2.21,
+        "anual": 36.46
+    },
+    "R1IN34": {
+        "semanal": -3.03,
+        "quinzenal": -3.92,
+        "mensal": -2.55,
+        "trimestral": -2.75,
+        "anual": 21.86
+    },
+    "RIOT34": {
+        "semanal": -1.65,
+        "quinzenal": -0.54,
+        "mensal": -0.37,
+        "trimestral": -2.76,
+        "anual": 12.13
+    },
+    "R2BL34": {
+        "semanal": -2.85,
+        "quinzenal": 19.4,
+        "mensal": -1.46,
+        "trimestral": 22.76,
+        "anual": 31.95
+    },
+    "SSFO34": {
+        "semanal": -1.55,
+        "quinzenal": 4.74,
+        "mensal": 0.34,
+        "trimestral": 14.21,
+        "anual": 33.4
+    },
+    "BCSA34": {
+        "semanal": -0.44,
+        "quinzenal": -0.44,
+        "mensal": 2.83,
+        "trimestral": 5.87,
+        "anual": 48.4
+    },
+    "SCHW34": {
+        "semanal": -2.02,
+        "quinzenal": -0.08,
+        "mensal": -0.53,
+        "trimestral": 15.27,
+        "anual": 22.39
+    },
+    "S2EA34": {
+        "semanal": -2.27,
+        "quinzenal": -2.27,
+        "mensal": 0.64,
+        "trimestral": 6.97,
+        "anual": 181.28
+    },
+    "N1OW34": {
+        "semanal": 0.59,
+        "quinzenal": 0.59,
+        "mensal": 3.67,
+        "trimestral": 15.22,
+        "anual": 63.54
+    },
+    "S2HO34": {
+        "semanal": -1.03,
+        "quinzenal": 0.79,
+        "mensal": 0.79,
+        "trimestral": 5.51,
+        "anual": 20.44
+    },
+    "S1BS34": {
+        "semanal": 2.87,
+        "quinzenal": 3.4,
+        "mensal": 2.49,
+        "trimestral": 23.72,
+        "anual": 4.02
+    },
+    "S2GM34": {
+        "semanal": -4.9,
+        "quinzenal": -5.56,
+        "mensal": -6.2,
+        "trimestral": 15.5,
+        "anual": -51.32
+    },
+    "SIMN34": {
+        "semanal": 1.39,
+        "quinzenal": 1.39,
+        "mensal": 1.53,
+        "trimestral": 8.57,
+        "anual": 48.17
+    },
+    "S1LG34": {
+        "semanal": 1.34,
+        "quinzenal": 1.85,
+        "mensal": 1.4,
+        "trimestral": 18.11,
+        "anual": 104.4
+    },
+    "S2NW34": {
+        "semanal": -1.41,
+        "quinzenal": 0.12,
+        "mensal": 0.12,
+        "trimestral": 7.38,
+        "anual": -31.39
+    },
+    "SNEC34": {
+        "semanal": -0.28,
+        "quinzenal": 2.54,
+        "mensal": 1.19,
+        "trimestral": -1.37,
+        "anual": 14.86
+    },
+    "S1PO34": {
+        "semanal": -2.85,
+        "quinzenal": -2.06,
+        "mensal": -2.06,
+        "trimestral": 9.02,
+        "anual": 137.65
+    },
+    "S2TA34": {
+        "semanal": -1.84,
+        "quinzenal": 0.72,
+        "mensal": -1.68,
+        "trimestral": 0.51,
+        "anual": 15.19
+    },
+    "SBUB34": {
+        "semanal": -2.9,
+        "quinzenal": 0.38,
+        "mensal": -1.59,
+        "trimestral": 6.04,
+        "anual": 22.45
+    },
+    "S2UI34": {
+        "semanal": -1.0,
+        "quinzenal": -1.05,
+        "mensal": -1.98,
+        "trimestral": 2.95,
+        "anual": 18.31
+    },
+    "TSMC34": {
+        "semanal": -0.69,
+        "quinzenal": -4.47,
+        "mensal": 1.14,
+        "trimestral": 18.31,
+        "anual": 122.96
+    },
+    "T1TW34": {
+        "semanal": -2.42,
+        "quinzenal": -2.42,
+        "mensal": 0.45,
+        "trimestral": 12.45,
+        "anual": 20.93
+    },
+    "T1AL34": {
+        "semanal": 3.11,
+        "quinzenal": 5.57,
+        "mensal": 2.95,
+        "trimestral": 2.31,
+        "anual": 16.11
+    },
+    "T2DH34": {
+        "semanal": 1.72,
+        "quinzenal": 1.72,
+        "mensal": 0.0,
+        "trimestral": 5.36,
+        "anual": -50.14
+    },
+    "TLNC34": {
+        "semanal": -2.21,
+        "quinzenal": -1.44,
+        "mensal": -1.11,
+        "trimestral": -0.04,
+        "anual": 43.57
+    },
+    "TSLA34": {
+        "semanal": -1.03,
+        "quinzenal": 12.89,
+        "mensal": -0.33,
+        "trimestral": 1.73,
+        "anual": 18.01
+    },
+    "TEXA34": {
+        "semanal": -1.42,
+        "quinzenal": 1.56,
+        "mensal": -0.7,
+        "trimestral": 5.02,
+        "anual": 43.49
+    },
+    "TMOS34": {
+        "semanal": -1.6,
+        "quinzenal": 1.12,
+        "mensal": 1.53,
+        "trimestral": -4.45,
+        "anual": 24.94
+    },
+    "TMCO34": {
+        "semanal": -4.16,
+        "quinzenal": -3.27,
+        "mensal": -2.76,
+        "trimestral": -0.38,
+        "anual": 12.31
+    },
+    "T2TD34": {
+        "semanal": -0.72,
+        "quinzenal": -2.12,
+        "mensal": -1.0,
+        "trimestral": 16.3,
+        "anual": 96.03
+    },
+    "RIGG34": {
+        "semanal": 1.82,
+        "quinzenal": 1.82,
+        "mensal": 3.63,
+        "trimestral": 12.7,
+        "anual": -17.19
+    },
+    "U1BE34": {
+        "semanal": 0.11,
+        "quinzenal": -2.69,
+        "mensal": 3.85,
+        "trimestral": 5.52,
+        "anual": 42.19
+    },
+    "ULEV34": {
+        "semanal": -0.01,
+        "quinzenal": 2.02,
+        "mensal": 1.99,
+        "trimestral": 2.05,
+        "anual": 58.26
+    },
+    "U1RI34": {
+        "semanal": -2.21,
+        "quinzenal": -3.53,
+        "mensal": -3.43,
+        "trimestral": 4.72,
+        "anual": 63.53
+    },
+    "UNHH34": {
+        "semanal": -2.23,
+        "quinzenal": -2.23,
+        "mensal": -1.0,
+        "trimestral": 2.17,
+        "anual": 29.73
+    },
+    "U2ST34": {
+        "semanal": 1.15,
+        "quinzenal": 5.12,
+        "mensal": 5.12,
+        "trimestral": 0.16,
+        "anual": -40.19
+    },
+    "U2PS34": {
+        "semanal": 4.01,
+        "quinzenal": 2.04,
+        "mensal": 2.04,
+        "trimestral": 32.18,
+        "anual": 33.64
+    },
+    "VERZ34": {
+        "semanal": -2.89,
+        "quinzenal": -0.58,
+        "mensal": -3.7,
+        "trimestral": -2.54,
+        "anual": 36.74
+    },
+    "VISA34": {
+        "semanal": -1.33,
+        "quinzenal": 3.83,
+        "mensal": -0.85,
+        "trimestral": 11.74,
+        "anual": 31.87
+    },
+    "V1OD34": {
+        "semanal": -1.31,
+        "quinzenal": -3.31,
+        "mensal": 0.85,
+        "trimestral": -0.55,
+        "anual": 35.21
+    },
+    "WALM34": {
+        "semanal": -0.5,
+        "quinzenal": 1.11,
+        "mensal": 0.47,
+        "trimestral": 9.21,
+        "anual": 91.1
+    },
+    "WGBA34": {
+        "semanal": -0.98,
+        "quinzenal": -0.65,
+        "mensal": -0.18,
+        "trimestral": 10.39,
+        "anual": -56.2
+    },
+    "DISB34": {
+        "semanal": -1.95,
+        "quinzenal": -0.6,
+        "mensal": -1.77,
+        "trimestral": 5.04,
+        "anual": 26.22
+    },
+    "W1BD34": {
+        "semanal": -1.07,
+        "quinzenal": -0.3,
+        "mensal": -0.3,
+        "trimestral": 5.47,
+        "anual": -14.77
+    },
+    "WFCO34": {
+        "semanal": -3.1,
+        "quinzenal": -0.87,
+        "mensal": -3.07,
+        "trimestral": 19.44,
+        "anual": 55.85
+    },
+    "Z1TS34": {
+        "semanal": -5.63,
+        "quinzenal": -2.42,
+        "mensal": -3.22,
+        "trimestral": -4.45,
+        "anual": 4.96
+    },
+    "Z1OM34": {
+        "semanal": -0.34,
+        "quinzenal": 7.25,
+        "mensal": 2.84,
+        "trimestral": 17.62,
+        "anual": 23.94
+    }
+}

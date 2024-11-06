@@ -1,0 +1,121 @@
+{
+    "ABCB4": {
+        "semanal": 1.45,
+        "quinzenal": -1.78,
+        "mensal": 0.24,
+        "trimestral": -3.76,
+        "anual": -9.8
+    },
+    "B3SA3": {
+        "semanal": 5.28,
+        "quinzenal": 2.43,
+        "mensal": 3.3,
+        "trimestral": 2.43,
+        "anual": -22.05
+    },
+    "BPAN4": {
+        "semanal": 6.12,
+        "quinzenal": 6.12,
+        "mensal": 0.0,
+        "trimestral": -15.42,
+        "anual": -1.62
+    },
+    "BRSR6": {
+        "semanal": 1.16,
+        "quinzenal": 1.16,
+        "mensal": 0.71,
+        "trimestral": -2.07,
+        "anual": -11.32
+    },
+    "BBSE3": {
+        "semanal": 2.42,
+        "quinzenal": 2.36,
+        "mensal": 2.45,
+        "trimestral": -1.1,
+        "anual": 12.49
+    },
+    "BBDC3": {
+        "semanal": -0.42,
+        "quinzenal": -5.84,
+        "mensal": -2.14,
+        "trimestral": -3.3,
+        "anual": -13.41
+    },
+    "BBDC4": {
+        "semanal": -1.14,
+        "quinzenal": -1.14,
+        "mensal": -2.93,
+        "trimestral": -3.69,
+        "anual": -13.51
+    },
+    "BBAS3": {
+        "semanal": 0.61,
+        "quinzenal": -0.19,
+        "mensal": -0.3,
+        "trimestral": -3.42,
+        "anual": 0.1
+    },
+    "BPAC11": {
+        "semanal": 4.67,
+        "quinzenal": 0.64,
+        "mensal": 2.0,
+        "trimestral": -0.3,
+        "anual": -10.32
+    },
+    "CXSE3": {
+        "semanal": 1.86,
+        "quinzenal": 2.21,
+        "mensal": 2.85,
+        "trimestral": 1.79,
+        "anual": 21.25
+    },
+    "CLSA3": {
+        "semanal": 0.94,
+        "quinzenal": 2.66,
+        "mensal": 0.73,
+        "trimestral": 5.24,
+        "anual": 157.07
+    },
+    "IRBR3": {
+        "semanal": 3.02,
+        "quinzenal": 1.15,
+        "mensal": -0.9,
+        "trimestral": -4.04,
+        "anual": -3.05
+    },
+    "ITUB3": {
+        "semanal": 4.6,
+        "quinzenal": 3.35,
+        "mensal": 4.1,
+        "trimestral": 0.05,
+        "anual": 16.79
+    },
+    "ITUB4": {
+        "semanal": 4.4,
+        "quinzenal": 3.14,
+        "mensal": 3.82,
+        "trimestral": 0.74,
+        "anual": 13.64
+    },
+    "PSSA3": {
+        "semanal": 0.26,
+        "quinzenal": 2.14,
+        "mensal": -0.13,
+        "trimestral": 4.5,
+        "anual": 35.47
+    },
+    "SANB11": {
+        "semanal": 0.26,
+        "quinzenal": 0.26,
+        "mensal": -1.21,
+        "trimestral": -4.02,
+        "anual": -12.0
+    },
+    "WIZC3": {
+        "semanal": 2.63,
+        "quinzenal": 1.39,
+        "mensal": 0.69,
+        "trimestral": 1.39,
+        "anual": -16.47
+    }
+}
