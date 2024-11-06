@@ -84,7 +84,7 @@ dowtrend_data
 
 ![output2png](https://github.com/user-attachments/assets/c5f4fa35-da4a-4f4a-aa97-41faa4558fca)
 
-Mais exemplos de uso em: **['/analyzer.ipynb'](https://github.com/rianlucascs/downtrend-analyzer/blob/master/analyzer.ipynb)**.
+Mais exemplos de uso em: **[/analyzer.ipynb](https://github.com/rianlucascs/downtrend-analyzer/blob/master/analyzer.ipynb)**.
 
 ## Contato
 
