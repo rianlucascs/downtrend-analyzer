@@ -79,3 +79,8 @@ dowtrend_data
 | PETR4   | -0.08   | -1.99     | -1.45  | -1.72      | 7.88   |
 | DIRR3   | 0.62    | -1.63     | -1.41  | 1.95       | 47.89  |
 | SANB11  | 0.26    | 0.26      | -1.21  | -4.02      | -12.00 |
+
+
+![output1](https://github.com/user-attachments/assets/a4a1ed47-056a-4332-b121-047495618fdd)
+
+![output2png](https://github.com/user-attachments/assets/c5f4fa35-da4a-4f4a-aa97-41faa4558fca)
