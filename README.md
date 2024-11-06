@@ -39,4 +39,27 @@ Este projeto tem como objetivo identificar e exibir as tendências de alta e bai
             indice = f'indice:{indice}'
             dowtrend = Dowtrend(type_amostra=indice)
             dowtrend.loop()
+    ```
 
+## Exemplo de uso
+
+
+```python
+# Define o período da análise da série temporal
+period = 'mensal'  # Opções: semanal, quinzenal, mensal, trimestral, anual
+
+# Define o tipo de amostra (índice ou outro conjunto de ações)
+type_amostra = 'indice:IDIV'
+
+# Cria uma instância da classe Dowtrend com o tipo de amostra selecionado
+dowtrend = Dowtrend(type_amostra=type_amostra)
+
+# Lê os dados financeiros em formato DataFrame
+data = dowtrend.read_data('DataFrame')
+
+# Obtém a tendência de desvalorização ou valorização com base no período selecionado
+# 'type' pode ser 'DESVALORIZAÇÃO' ou 'VALORIZAÇÃO'
+dowtrend_data = dowtrend.get_max(data, period, type='DESVALORIZAÇÃO')  # Substitua por 'VALORIZAÇÃO' se necessário
+
+# Exibe o DataFrame com os resultados da análise de tendências
+dowtrend_data
