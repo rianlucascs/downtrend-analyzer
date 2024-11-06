@@ -114,40 +114,6 @@ class Dowtrend:
     def get_max(self, data, column, type):
         keys = {'DESVALORIZAÇÃO': True, 'VALORIZAÇÃO': False}
         return data.sort_values(by=column, ascending=keys[type]).head(self.qtd_output)
-    
-    def grafico(self, ticker):
-        df = self.serie_temporal(ticker).tail(255)
-        plt.figure(figsize=(14, 7), dpi=300)
-        plt.plot(df.index, df['Adj Close'], color='tab:orange', linewidth=3, label=f'{ticker} - Fechamento Ajustado')
-        plt.title(f'{ticker} - Preço de Fechamento Ajustado', fontsize=18, fontweight='bold', color='black', loc='center')
-        plt.suptitle(f'Cesta ({self.type_amostra})', fontsize=12, fontstyle='italic', color='grey')
-        plt.xlabel('Data', fontsize=14, fontweight='bold', color='black')
-        plt.ylabel('Preço de Fechamento Ajustado (R$)', fontsize=14, fontweight='bold', color='black')
-        plt.xticks(rotation=45, ha='right', fontsize=10, color='black')  
-        plt.yticks(fontsize=10, color='black')
-        plt.grid(True, linestyle='--', alpha=0.7, color='gray')
-        plt.legend(loc='upper left', fontsize=12, fancybox=True, framealpha=0.8, facecolor='w', edgecolor='black')
-        max_price_value = df['Adj Close'].iloc[-1].iloc[-1]  
-        max_price_date = df['Adj Close'].index[-1]  
-        x = self.read_data('json')[ticker]
-        other_infos = f'Semanal: {x["semanal"]}%\nQuinzenal: {x["quinzenal"]}%\nMensal: {x["mensal"]}%\nAnual: {x["anual"]}%'
-        plt.annotate(f'Preço atual: R${max_price_value:.2f}\n{other_infos}',
-                    xy=(max_price_date, max_price_value),  
-                    xytext=(max_price_date, max_price_value + 2),  
-                    arrowprops=dict(
-                        facecolor='red',           
-                        edgecolor='red',       
-                        arrowstyle='->',           
-                        lw=1,                      
-                        connectionstyle='arc3,rad=-0.2'  
-                    ),
-                    fontsize=8,                  
-                    color='red',                  
-                    fontweight='bold',            
-                    bbox=dict(facecolor='white', alpha=0.7, edgecolor='red', boxstyle='round,pad=0.3')  
-                    )
-        plt.tight_layout()
-        plt.show()
 
     def loop(self):
         """
