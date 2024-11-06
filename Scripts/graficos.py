@@ -17,7 +17,7 @@ class Graficos:
         :param ticker: O símbolo do ativo (ex: 'AESB3', 'ITUB4', etc.).
         """
         # Obtém os últimos 255 valores de fechamento ajustado
-        df = self.dowtrend.serie_temporal(ticker).tail(255)
+        df = self.dowtrend._obter_serie_temporal(ticker).tail(255)
         
         # Cria a figura do gráfico
         plt.figure(figsize=(14, 7), dpi=300)
